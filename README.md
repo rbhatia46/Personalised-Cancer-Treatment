@@ -1,3 +1,6 @@
+      [![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Redefining-Cancer-Treatment})
+
+
 # Redefining-Cancer-Treatment
 
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
