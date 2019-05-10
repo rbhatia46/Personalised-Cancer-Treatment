@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/{username}/{repo}.svg)](http://hits.dwyl.io/{rbhatia46}/{Redefining-Cancer-Treatment})
-
 
 # Redefining-Cancer-Treatment
 
