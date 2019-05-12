@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/rbhatia46/Redefining-Cancer-Treatment.svg)](http://hits.dwyl.io/rbhatia46/Redefining-Cancer-Treatment)
 
 # Redefining-Cancer-Treatment
 
